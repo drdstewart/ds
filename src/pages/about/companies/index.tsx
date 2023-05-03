@@ -9,16 +9,16 @@ const Companies = () => {
         I've worked with some great companies over the years
       </div>
       <div className={classes.images}>
-        <img src="/nrs.jpeg" alt="nrs" className={classes.image} />
-        <img src="/etain.png" alt="etain" className={classes.image} />
+        <img src="./ds/nrs.jpeg" alt="nrs" className={classes.image} />
+        <img src="./ds/etain.png" alt="etain" className={classes.image} />
         <img
-          src="/allenovery.jpeg"
-          alt="allenovery"
+          src="./ds/allenovery.jpeg"
+          alt="./dsallenovery"
           className={classes.image}
         />
-        <img src="/aquaq.png" alt="aquaq" className={classes.image} />
-        <img src="/bluezinc.png" alt="bluezinc" className={classes.image} />
-        <img src="/tesc.png" alt="tuzzl" className={classes.image} />
+        <img src="./ds/aquaq.png" alt="aquaq" className={classes.image} />
+        <img src="./ds/bluezinc.png" alt="bluezinc" className={classes.image} />
+        <img src="./ds/tesc.png" alt="tuzzl" className={classes.image} />
       </div>
     </div>
   );
