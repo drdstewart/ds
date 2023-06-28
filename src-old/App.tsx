@@ -4,20 +4,20 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
-import About from "./about";
-import { useEffect } from "react";
+import TopBar from "./core/top-bar";
+import About from "./pages/about";
+import Contact from "./pages/contact";
+import Resume from "./pages/resume";
 
 const App = () => {
-  useEffect(() => {
-    window.onbeforeunload = function () {
-      window.scrollTo(0, 0);
-    };
-  }, []);
   return (
     <Router>
       <div>
+        <TopBar />
         <Routes>
           <Route path="/" element={<About />} />
+          {/* <Route path="/resume" element={<Resume />} />
+          <Route path="/contact" element={<Contact />} /> */}
           <Route path="*" element={<Navigate replace to="/" />} />
         </Routes>
       </div>
