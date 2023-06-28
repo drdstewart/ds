@@ -1,17 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.9222898c.css",
-    "main.js": "/static/js/main.e051e43f.js",
-    "static/media/frontend.svg": "/static/media/frontend.ad8603177f611d4cf33dfdce555d9bf4.svg",
+    "main.js": "/static/js/main.c266b52e.js",
+    "static/media/code.svg": "/static/media/code.2bc98dc801b488e6fb65ab03603ad563.svg",
+    "static/media/email.svg": "/static/media/email.c453ba2547377de355177f07320f613e.svg",
+    "static/media/frontend.svg": "/static/media/frontend.7bb1bff57fda0f805c123f6eafdaa8e2.svg",
     "static/media/backend.svg": "/static/media/backend.31e5d7b7d6b6c3df3c14a7af1ebb1460.svg",
+    "static/media/phone-outlined.svg": "/static/media/phone-outlined.e98da1d31e8af3d984cfaebc064821cb.svg",
+    "static/media/cloud.svg": "/static/media/cloud.7bb10966af62e3913bcb806729c52503.svg",
     "index.html": "/index.html",
-    "static/media/call.svg": "/static/media/call.5d77984f06ab755a7ab76ec0ab406fba.svg",
+    "static/media/back.svg": "/static/media/back.3d5266fcdc7231444bce71aee7ed4622.svg",
+    "static/media/call.svg": "/static/media/call.e93925d8d059dc353c8b29915ca96f35.svg",
     "static/media/everything.svg": "/static/media/everything.454cbd40ad1326152c0057f8d0987979.svg",
     "main.9222898c.css.map": "/static/css/main.9222898c.css.map",
-    "main.e051e43f.js.map": "/static/js/main.e051e43f.js.map"
+    "main.c266b52e.js.map": "/static/js/main.c266b52e.js.map"
   },
   "entrypoints": [
     "static/css/main.9222898c.css",
-    "static/js/main.e051e43f.js"
+    "static/js/main.c266b52e.js"
   ]
 }
